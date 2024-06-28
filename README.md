@@ -30,5 +30,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meghul&" alt="meghul" /></p>
 
-<hr>
+
 ![snake gif](https://github.com/Meghul/Meghul/blob/output/github-contribution-grid-snake.gif)
